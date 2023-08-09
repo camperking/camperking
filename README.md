@@ -1,4 +1,35 @@
-### Hi there 👋
+### 👋 Hi there
+
+My name is Steffen and here you can find most of my code.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+## 💡 About me
+
+I'm an electrical test engineer with a passion for software development. I've been programming for over 20 years and have experience in many languages.
+
+## 🚀 Cool Projects
+
+Here are some of my coolest projects. I always try to use latest technology and modern prgramming stacks.
+
+### Logicplay
+
+### BOMScanner
+
+### HTML2PDF Tool
+
+### Telper?
+
+
+
+
 
 <!--
 **camperking/camperking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
